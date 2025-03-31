@@ -1,16 +1,16 @@
-# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025 🚀 
 
-Autor: **(insira seu nome)**
+👤 **Autor:** Giovana Ferreira Santos 
 
-Curso: Residência Tecnológica em Sistemas Embarcados
+🏫 **Curso:** Residência Tecnológica em Sistemas Embarcados
 
-Instituição: EmbarcaTech - HBr
+🏢 **Instituição:** EmbarcaTech - HBr
 
-Campinas, março de 2025
+Brasília, março de 2025
 
 ---
 
-## Sobre este repositório
+## 📚 Sobre este repositório
 
 Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
 
@@ -18,6 +18,37 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## O que fazer com este arquivo
+## 📂  Lista de Projetos  
+| Projeto | Descrição |
+|---------|-----------|
+| [Luminus Memory](./Luminus_Memory) | Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+---
+
+
+## 🛠️ Setup Utilizado  
+Kit de Desenvovimento - BitDogLab:  
+
+<img src="https://github.com/user-attachments/assets/50ea43bf-a1a8-4802-8086-dc5ba98615f2" width="300">
+
+
+---
+##  Diário de Bordo (Reflexões e Aprendizados)
+Ao longo do curso, esta seção será atualizada com os principais aprendizados, desafios enfrentados e soluções encontradas pelo autor dos projetos. 
+
+### Fase 1 - Criação do primeiro Projeto
+
+-......
+
+### Semana 1
+
+-......
+
+---
+
+✉️ **Contato:**
+
+Email - giovana79155@gmail.com
+
+LinkedIn - linkedin.com/in/giovana-ferreira-santos
+
