@@ -48,7 +48,7 @@ Criar um jogo de memória desafiador e envolvente utilizando:
 
 - [jogo_da_memoria.c](./jogo_da_memoria.c) Código principal do projeto  
 
-## 🎼 Imagens do Projeto  
+## 🖼️​ Imagens do Projeto  
 
 ### 🔲 Matriz de LEDs durante a execução  
 <img src="https://github.com/user-attachments/assets/f7291866-f3b2-498e-a788-c8c2e605d6ad" width="300">
@@ -58,6 +58,4 @@ Criar um jogo de memória desafiador e envolvente utilizando:
 
 ---
 
-## 🐝 Licença  
-
-MIT License   
+ 
