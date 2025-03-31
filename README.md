@@ -47,6 +47,6 @@ Ao longo do curso, esta seção será atualizada com os principais aprendizados,
 ---
 
 ## 📬 Contato  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovana-ferreira-santos/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovana-ferreira-santos/)                      
 Email - giovana79155@gmail.com 
 
