@@ -1,6 +1,6 @@
 # 🌟 Luminus Memory
 
-O **Luminus Memory** é um jogo interativo inspirado no clássico **Genius (Simon Says)**, onde o jogador precisa memorizar e reproduzir sequências de luzes. 🧠💡
+O **Luminus Memory** é um jogo interativo desenvolvido na Fase 1 do curso. Foi inspirado no clássico **Genius (Simon Says)**, onde o jogador precisa memorizar e reproduzir sequências de luzes. 🧠💡
 
 ## 🎯 Objetivo
 
