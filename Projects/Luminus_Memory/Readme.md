@@ -58,4 +58,5 @@ Criar um jogo de memória desafiador e envolvente utilizando:
 
 ---
 
+Desenvolvido com ❤️ na BitdogLab.
  
