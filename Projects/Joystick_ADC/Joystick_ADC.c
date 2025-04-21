@@ -16,10 +16,6 @@
 #define ADC_CHANNEL_X 0
 #define ADC_CHANNEL_Y 1
 
-//Tamanho do Display
-#define ssd1306_width 128
-#define ssd1306_height 32
-
 //Comunicação Display OLED via I2C
 void display_init()
 {
