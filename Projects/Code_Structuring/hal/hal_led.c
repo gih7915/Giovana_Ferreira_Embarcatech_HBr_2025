@@ -1,3 +1,4 @@
+//Hal é a ponte entre o app e o hardware real
 #include "led_embutido.h"
 
 bool led_initiated = false;
