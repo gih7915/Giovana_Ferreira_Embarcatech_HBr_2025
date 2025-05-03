@@ -36,12 +36,10 @@ pico_sdk_init()
 # Add executable. Default name is the project name, version 0.1
 
 add_executable(main 
-    app/main.c 
-    drivers/led_embutido.c
-    hal/hal_led.c
+    
     )
 
-pico_set_program_name(main "Modular_structure")
+pico_set_program_name(main "Teste_Unitario")
 pico_set_program_version(main "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
@@ -56,10 +54,5 @@ target_link_libraries(main
 target_include_directories(main PRIVATE
     ${CMAKE_CURRENT_LIST_DIR}/include
 )
-
-# Add any user requested libraries
-target_link_libraries(main 
-        pico_cyw43_arch_none
-        )
 
 pico_add_extra_outputs(main)
