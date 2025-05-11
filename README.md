@@ -27,7 +27,6 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | [Temperature Conversion](Projects/ADC_Temperature_Conversion) |  Exibir em tempo real a temperatura do chip em graus Celsius. |
 | [Code Structure](Projects/Code_Structuring) | ...|
 | [Teste Unitário](Projects/Teste_Unitario) | ...|
-| [Code Structure](Projects/Code_Structuring) | ...|
 | [Galton Board](Projects/Galton_Board) | ...|
 ---
 
