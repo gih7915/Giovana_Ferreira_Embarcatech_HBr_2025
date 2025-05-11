@@ -22,10 +22,13 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | Projeto | Descrição |
 |---------|-----------|
 | [Luminus Memory](Projects/Luminus_Memory) | Fase 1. Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
-| [Luminus Memory](./Luminus_Memory) | Fase 1. Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
-| [Luminus Memory](./Luminus_Memory) | Fase 1. Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
-| [Luminus Memory](./Luminus_Memory) | Fase 1. Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
-| [Luminus Memory](./Luminus_Memory) | Fase 1. Jogo da Memória Interativo com a Matriz de Leds, Joystick, Botões e Display |
+| [Timer Interrupt Counter](Projects/Timer_Interrupt_Counter) | ... |
+| [Joystick ADC](Projects/Joystick_ADC) | Capturar e exibir em tempo real os valores analógicos dos eixos X e Y do joystick. |
+| [Temperature Conversion](Projects/ADC_Temperature_Conversion) |  Exibir em tempo real a temperatura do chip em graus Celsius. |
+| [Code Structure](Projects/Code_Structuring) | ...|
+| [Teste Unitário](Projects/Teste_Unitario) | ...|
+| [Code Structure](Projects/Code_Structuring) | ...|
+| [Galton Board](Projects/Galton_Board) | ...|
 ---
 
 
