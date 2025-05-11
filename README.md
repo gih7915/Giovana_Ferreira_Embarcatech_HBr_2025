@@ -31,19 +31,6 @@ Kit de Desenvovimento - BitDogLab:
 
 <img src="https://github.com/user-attachments/assets/50ea43bf-a1a8-4802-8086-dc5ba98615f2" width="300">
 
-
----
-##  Diário de Bordo (Reflexões e Aprendizados)
-Ao longo do curso, esta seção será atualizada com os principais aprendizados, desafios enfrentados e soluções encontradas pelo autor dos projetos. 
-
-### Fase 1 - Criação do primeiro Projeto
-
--......
-
-### Semana 1
-
--......
-
 ---
                     
 
